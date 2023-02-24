@@ -1,0 +1,24 @@
+body {
+    background-color: lightgreen;
+}
+#main_Heading :hover {
+    background-color: cadetblue;
+    color: rgba(246, 0, 41, 0.815);
+}
+
+
+.Main #Abdullah {
+    color: rgb(0, 0, 0);
+}
+
+#suffah h4:hover {
+    background-color: cadetblue;
+    color: rgba(246, 0, 41, 0.815) ;
+}
+
+#heading {
+    background-color: cadetblue;
+    color: rgba(246, 0, 41, 0.815);
+}
+
+
